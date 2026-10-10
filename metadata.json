@@ -1,0 +1,8 @@
+{
+  "name": "WatchHub E-Commerce",
+  "description": "WatchHub is an e-commerce platform for luxury and everyday watches featuring Rolex, Casio, Omega, Fossil, and Seiko with categorized collections, shopping cart, checkout, and inventory management.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
